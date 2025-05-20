@@ -1,0 +1,10 @@
+environ
+psycopg
+Pillow
+django==4.2.3
+djangorestframework==3.14.0
+djoser==2.2.0
+psycopg2-binary==2.9.7
+django-environ==0.10.0
+python-dotenv==1.0.1
+drf-spectacular==0.26.1  # Для документации API (опционально)
