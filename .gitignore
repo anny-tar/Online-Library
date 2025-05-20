@@ -3,6 +3,7 @@
 /backend/migrations/
 /backend/db.sqlite3
 /backend/.env
+/backend/venv
 /backend/.vscode/
 /backend/*.log
 
